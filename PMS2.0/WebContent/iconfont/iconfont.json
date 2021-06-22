@@ -1,0 +1,149 @@
+{
+  "id": "1447555",
+  "name": " ",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "人事管理系统",
+  "glyphs": [
+    {
+      "icon_id": "11039030",
+      "name": "２-15",
+      "font_class": "-",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "11039031",
+      "name": "２-19",
+      "font_class": "-1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "11039033",
+      "name": "２-18",
+      "font_class": "-2",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "11039043",
+      "name": "２-34",
+      "font_class": "-3",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11039054",
+      "name": "２-33",
+      "font_class": "-4",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11039055",
+      "name": "２-44",
+      "font_class": "-5",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11039061",
+      "name": "２-50",
+      "font_class": "-6",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "11039087",
+      "name": "２-78",
+      "font_class": "-7",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11039095",
+      "name": "２-88",
+      "font_class": "-8",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "11039097",
+      "name": "２-89",
+      "font_class": "-9",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11039111",
+      "name": "２-98",
+      "font_class": "-10",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11039117",
+      "name": "２-103",
+      "font_class": "-11",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11039128",
+      "name": "２-122",
+      "font_class": "-12",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "11039147",
+      "name": "２-128",
+      "font_class": "-13",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "11039159",
+      "name": "２-151",
+      "font_class": "-14",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "11039165",
+      "name": "２-147",
+      "font_class": "-15",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "11039166",
+      "name": "２-149",
+      "font_class": "-16",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "11039171",
+      "name": "２-159",
+      "font_class": "-17",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11039189",
+      "name": "２-10",
+      "font_class": "-18",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "11039191",
+      "name": "２-11",
+      "font_class": "-19",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
